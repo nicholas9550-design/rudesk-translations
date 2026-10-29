@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+  <id>rudesk_example</id>
+  <name>ruDESK example</name>
+  <summary>Учебный пример: Total → Всего в Tables</summary>
+  <description>Не проверен установкой в Nextcloud. Только Nextcloud 34 и Tables 2.3.2.</description>
+  <version>0.1.0</version>
+  <licence>agpl</licence>
+  <author>ruDESK contributors</author>
+  <namespace>RudeskExample</namespace>
+  <category>customization</category>
+  <bugs>https://github.com/nicholas9550-design/rudesk-translations/issues</bugs>
+  <dependencies><nextcloud min-version="34" max-version="34"/></dependencies>
+</info>
