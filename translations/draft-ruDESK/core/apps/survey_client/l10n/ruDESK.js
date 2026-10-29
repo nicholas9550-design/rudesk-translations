@@ -1,0 +1,31 @@
+OC.L10N.register(
+"survey_client",
+{
+  "Last report sent on: {on}": "Последний отчёт отправлен: {on}",
+  "An error occurred while sending your report.": "При отправке вашего отчёта произошла ошибка.",
+  "App list <em>(for each app: name, version, enabled status)</em>": "Список приложений <em>(для каждого из приложений: его название, версия, включено или нет)</em>",
+  "Database environment <em>(type, version, database size)</em>": "Информация о БД <em>(тип, версия, размер)</em>",
+  "Encryption information <em>(is it enabled?, what is the default module)</em>": "Шифрование <em>(включено ли, модуль по умолчанию)</em>",
+  "Number of shares <em>(per type and permission setting)</em>": "Количество общих ресурсов <em>(по типу и настройкам доступа)</em>",
+  "PHP environment <em>(version, memory limit, max. execution time, max. file size)</em>": "Информация о PHP <em>(версия, лимит памяти, макс. время выполнения, макс. размер файла)</em>",
+  "Server instance details <em>(version, memcache used, status of locking/previews/avatars)</em>": "Сведения о сервере <em>(версия, используемый memcache, состояние блокировок, предпросмотра и аватаров)</em>",
+  "Statistic <em>(number of files, users, storages per type, comments and tags)</em>": "Статистика <em>(число файлов, пользователей, хранилищ по типам, комментариев и меток)</em>",
+  "Usage survey": "Статистика использования",
+  "Help improve Nextcloud": "Помогите улучшить Nextcloud",
+  "Do you want to help us to improve Nextcloud by providing some anonymized data about your setup and usage? You can disable it at any time in the admin settings again.": "Хотите помочь улучшить Nextcloud? Отправляйте нам обезличенные данные о конфигурации и использовании сервера. Отключить отправку можно в любой момент в параметрах администрирования.",
+  "Send usage": "Отправить информацию об использовании",
+  "Not now": "Не сейчас",
+  "Never ask again": "Никогда больше не спрашивать",
+  "Never": "Никогда",
+  "Sends anonymized data to Nextcloud to help us to improve Nextcloud.": "Отправляет обезличенные данные компании Nextcloud, чтобы помочь улучшить продукт.",
+  "Sends anonymized data to Nextcloud to help us to improve Nextcloud. You\n\t\talways have full control over the content sent to Nextcloud and can disable\n\t\tit again at any time.": "Отправляет обезличенные данные компании Nextcloud, чтобы помочь улучшить продукт. Вы полностью контролируете, какие данные отправляются, и можете в любой момент отключить отправку.",
+  "You can help improve Nextcloud by sending us some data about your current setup and usage.": "Помогите улучшить Nextcloud — отправьте нам данные о текущей конфигурации и использовании сервера.",
+  "We take your privacy seriously. Sending data is disabled by default, and should you choose to turn it on, it will be anonymized first, and you are given the option of what things to share. Upon receiving a report, the previous one is removed. To delete the stored usage data, upload an empty report by unchecking all of the boxes then sending a new report.": "Мы серьёзно относимся к вашей конфиденциальности. По умолчанию отправка данных отключена; если вы её включите, данные будут обезличены, а что именно отправлять — решаете вы. После получения нового отчёта предыдущий удаляется. Чтобы удалить сохранённые данные об использовании, снимите все флажки и отправьте пустой отчёт.",
+  "Send new report now": "Отправить отчёт сейчас",
+  "Send usage survey monthly": "Отправлять информацию об использовании ежемесячно",
+  "Data to send": "Данные для отправки",
+  "Last report": "Последний отчёт",
+  "Last report sent on: %s": "Последний отчёт отправлен: %s"
+},
+"nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);"
+);

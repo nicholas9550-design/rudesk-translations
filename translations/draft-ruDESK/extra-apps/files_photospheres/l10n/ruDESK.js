@@ -1,0 +1,10 @@
+OC.L10N.register("files_photospheres",
+{
+  "Photo Sphere Viewer": "Просмотр сферических панорам",
+  "Enables viewing of google photosphere images": "Позволяет просматривать сферические панорамы Google",
+  "Enables viewing of google photosphere images by\n        integrating the photo-sphere-viewer.js component\n        into your nextcloud instance.": "Позволяет просматривать сферические панорамы Google,\n        интегрируя компонент photo-sphere-viewer.js\n        в ваш экземпляр Nextcloud.",
+  "Your browser doesn't support WebGL/WebGL2. Please enable WebGL/WebGL2 support in the browser settings.": "Ваш браузер не поддерживает WebGL/WebGL2. Включите поддержку WebGL/WebGL2 в настройках браузера.",
+  "An error occured while trying to read xmp-data: ": "Ошибка при чтении данных XMP: ",
+  "An unknown error occured while trying to read xmp-data.": "При чтении данных XMP произошла неизвестная ошибка."
+},
+"nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");

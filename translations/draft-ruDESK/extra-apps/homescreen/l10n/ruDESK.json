@@ -1,0 +1,9 @@
+{
+  "translations": {
+    "Home": "Главная",
+    "No apps to show": "Нет приложений для отображения",
+    "Apps that appear in the Nextcloud app menu will show up here.": "Здесь появятся приложения из меню приложений Nextcloud.",
+    "_%n notification_::_%n notifications_": ["%n уведомление", "%n уведомления", "%n уведомлений", "%n уведомления"]
+  },
+  "pluralForm": "nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : n%10==0 || n%10>=5 || (n%100>=11 && n%100<=14) ? 2 : 3);"
+}

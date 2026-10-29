@@ -1,0 +1,23 @@
+OC.L10N.register("doom_nextcloud",
+{
+  "Doom": "Doom",
+  "Enter your js-dos key to stay signed in across browsers and devices. It is validated with js-dos and stored encrypted for your account.": "Введите ключ js-dos, чтобы сохранять вход в разных браузерах и на разных устройствах. Ключ проверяется через js-dos и хранится в зашифрованном виде для вашей учётной записи.",
+  "Signed in as": "Вход выполнен как",
+  "Use a different key": "Использовать другой ключ",
+  "Remove key": "Удалить ключ",
+  "Save": "Сохранить",
+  "Cancel": "Отмена",
+  "Signed in to js-dos as %s.": "Вход в js-dos выполнен как %s.",
+  "Manage key": "Управление ключом",
+  "New: save your js-dos key once and stay signed in on all your devices.": "Новое: сохраните ключ js-dos один раз, чтобы сохранять вход на всех устройствах.",
+  "Set it up": "Настроить",
+  "Dismiss": "Закрыть",
+  "Validating…": "Проверка…",
+  "Key validated and saved.": "Ключ проверен и сохранён.",
+  "Invalid key.": "Недействительный ключ.",
+  "Could not reach js-dos. Please try again later.": "Не удалось связаться с js-dos. Повторите попытку позже.",
+  "Could not save the key.": "Не удалось сохранить ключ.",
+  "Key removed.": "Ключ удалён.",
+  "Could not remove the key.": "Не удалось удалить ключ."
+},
+"nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");

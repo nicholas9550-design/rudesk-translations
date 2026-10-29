@@ -1,0 +1,28 @@
+{
+  "translations": {
+    "Moodle Deck Sync": "Синхронизация Moodle и Deck",
+    "Moodle Deck Sync Administration": "Настройка синхронизации Moodle и Deck",
+    "Allowed Moodle Instances": "Разрешённые экземпляры Moodle",
+    "Shared Secret": "Общий секрет",
+    "Bot Username": "Имя пользователя бота",
+    "Bot Application Password": "Пароль приложения бота",
+    "Enable Automatic User Provisioning": "Включить автоматическое создание пользователей",
+    "Purge Archived Boards After (Days)": "Удалять архивные доски через (дней)",
+    "Save Settings": "Сохранить настройки",
+    "Settings saved successfully": "Настройки успешно сохранены",
+    "Nextcloud Deck board is ready: {board}": "Доска Nextcloud Deck готова: {board}",
+    "Allowed Moodle Instances (one per line)": "Разрешённые экземпляры Moodle (по одному в строке)",
+    "Shared Secret (HMAC-SHA256)": "Общий секрет (HMAC-SHA256)",
+    "Leave empty to keep existing secret": "Оставьте пустым, чтобы сохранить текущий секрет",
+    "Deck Bot Username": "Имя пользователя бота Deck",
+    "e.g. moodle_deck_bot": "например, moodle_deck_bot",
+    "Deck Bot App Password": "Пароль приложения бота Deck",
+    "Leave empty to keep existing password": "Оставьте пустым, чтобы сохранить текущий пароль",
+    "Purge Archived Boards After (Days, 0 = Disabled)": "Удалять архивные доски через (дней, 0 — отключено)",
+    "Saving...": "Сохранение...",
+    "Failed to load settings": "Не удалось загрузить настройки",
+    "Failed to save settings": "Не удалось сохранить настройки",
+    "Error saving settings": "Ошибка при сохранении настроек"
+  },
+  "pluralForm": "nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);"
+}
